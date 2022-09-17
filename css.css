@@ -1,0 +1,67 @@
+html {
+  font-size: 16px;
+  background: #dcdcdc;
+  color: black;
+  font-family: 'Open Sans', sans-serif;
+}
+
+img {
+  display: block;
+  margin: 5px auto;
+  width: 85%;
+  max-width: 550px;
+  padding: 10px;
+  background: #000000;
+  border: 0.2px solid #000000;
+  border-radius: 9px;
+}
+
+img:hover {
+  background: white;
+}
+
+h1 {
+  text-align: center;
+  margin: -4px 0;
+  letter-spacing: 0.15px;
+  font-size: 36px;
+}
+
+label {
+  display: block;
+  text-align: center;
+  margin: -4px 0;
+  letter-spacing: 0.15px;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.lc, .us {
+  color: black;
+  text-align: justify;
+  font-weight: 800;
+  display: block;
+  margin: 5px auto;
+  width: 85%;
+  max-width: 100%;
+  padding: 10px;
+  background: #ffffff;
+  border: 0.2px solid #888888;
+  border-radius: 9px;
+}
+
+a {
+  color: #1DA1F2;
+  
+}
+
+.lc:hover, a:hover {
+    background: black;
+    color: #ffffff;
+}
+
+.twitter-follow-button {
+  
+  display: block;
+  margin: 5px auto;
+}
